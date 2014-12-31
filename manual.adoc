@@ -6,8 +6,8 @@ Further Info <info@repurposeproject.org>
 In this guide, you will learn how to 
 [square]
 * prepare items to be put out on the floor
-* fix items
 * repurpose broken or worn items for functionality and art
+* fix items
 
 === General Tips
 . If something is messy, clean it. This includes wiping off dirt and dust from products, folding cloth instead of bundling it, wrapping cords properly, picking up after yourself, and picking up after others.
@@ -52,5 +52,5 @@ When in doubt, like goes with like! Kitchen electronics should go in the Kitchen
 
 
 == Conclusion
-
+You should now be familiar with the operating procedures and guidelines for the Repurpose Project. Now you can help organize, fix and repurpose almost anything!
 
