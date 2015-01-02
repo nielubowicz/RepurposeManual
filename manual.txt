@@ -22,12 +22,9 @@ Congratulations, you've been selected to help in the *Electronics* section. Don'
 . Clean the item. Wipe off any dust with a clean rag. Check for broken components (broken tape-deck doors, missing buttons, loose hinges, etc)
 . Note any damaged or broken components.
 . Wrap the cord using a rubber band. If the item is an AC adapter, rubber band the wrapped cord to the adapter body. If the item is a device, use your discretion to rubber band the cord to the device. 
-[TIP]
-Most cords will have bends from former wrappings. Try to stay in line with these. If such bends do not exist, wrap the cord either around your hand or in your hand - the wrapped loop should be no longer than 6". 
-[WARNING]
-DO NOT force bends in cables. DO NOT bend the cord sharply from its attachment point. Any sharp bends may damage the wiring. 
-[WARNING]
-DO NOT wrap the cable simply using itself. Such arrangments are prone to unwrapping, look messy and lack uniformity. In addition, by creating different shapes with odd bits sticking out, items are less likely to fit nicely on the shelf.
+TIP: Most cords will have bends from former wrappings. Try to stay in line with these. If such bends do not exist, wrap the cord either around your hand or in your hand - the wrapped loop should be no longer than 6". 
+WARNING: DO NOT force bends in cables. DO NOT bend the cord sharply from its attachment point. Any sharp bends may damage the wiring. 
+WARNING: DO NOT wrap the cable simply using itself. Such arrangments are prone to unwrapping, look messy and lack uniformity. In addition, by creating different shapes with odd bits sticking out, items are less likely to fit nicely on the shelf.
 . If the item is not considered sellable - that is, the defects are major or interefere with normal operation -- see <Teardown Procedures>.
 . Plug it in! Check that the item powers on. You may need to gather auxillary materials to test the item. For example, a stereo system will need speakers, a computer will need a monitor/keyboard/mouse, speakers will need an audio source, etc. Most of these items should be available in the testing station.
 . Test features, where reasonable. For example, with tape decks, check: play, pause, stop, rewind, and fast foward functions. Note any broken features.
