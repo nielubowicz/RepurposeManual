@@ -1,5 +1,6 @@
 = Repurpose Project - How to Repurpose, Reuse, Recycle and Organize
 Further Info <info@repurposeproject.org>
+:toc:
 :icons: font
 
 == Introduction
